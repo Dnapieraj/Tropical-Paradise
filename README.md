@@ -1,1 +1,1 @@
-Website: https://dnapieraj.github.io/Tropical-Paradise/
+https://dnapieraj.github.io/Tropical-Paradise/
